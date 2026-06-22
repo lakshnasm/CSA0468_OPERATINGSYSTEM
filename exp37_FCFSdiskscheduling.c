@@ -4,7 +4,6 @@
 int main()
 {
     int n, head, seek_time = 0;
-
     printf("Enter the number of disk requests: ");
     scanf("%d", &n);
 
